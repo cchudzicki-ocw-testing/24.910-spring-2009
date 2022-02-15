@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment for Week 4: Solutions'
-type: OCWFile
 uid: 658951ca-19af-1f8b-e1fd-9543f58a9ad6
 ---

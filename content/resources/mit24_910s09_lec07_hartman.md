@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Tough-Constructions, Derived Subjects and Intervention Effects
-type: OCWFile
 uid: 9ec2faa7-3899-a711-7731-50e77cc30ae6
 ---

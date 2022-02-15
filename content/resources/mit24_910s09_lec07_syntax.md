@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Syntax 2: control and raising'
-type: OCWFile
 uid: 839d19a3-94de-357b-a133-096aab0f17d9
 ---
